@@ -126,10 +126,7 @@ public abstract class BasePage<T extends WebDriver> {
 
         }
     }
-
-
-
-    public void sleep(long l) {
+    public void waitforduration(long l) {
         try {
             Thread.sleep(l);
         } catch (InterruptedException e) {
@@ -137,12 +134,7 @@ public abstract class BasePage<T extends WebDriver> {
         }
     }
 
-
-
-
-
-
-	public void takeWebElementScreenshot(By by, String fileName) {
+    public void takeWebElementScreenshot(By by, String fileName) {
 		File screen = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         WebElement element = driver.findElement(by);
         Point p = element.getLocation();

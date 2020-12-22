@@ -1,4 +1,4 @@
-Trello regression
+Catalyyr regression
 =====================
 
 ##### Minimum steps to get started running tests on your local machine

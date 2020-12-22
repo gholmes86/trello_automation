@@ -9,10 +9,10 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 		glue = "step_definitions",
 		features = "classpath:features",
-		plugin = {"pretty", "html:target/cucumber-html-report","json:target/cucumber/LandingPageTest.json"},
-		tags = { "@homePage", "~@ignore" }
+		plugin = {"pretty", "html:target/cucumber-html-report","json:target/cucumber/AdminRegressionTest.json"},
+		tags = { "@boardsPage", "~@ignore" }
 
 )
-public class LandingPageTest {
+public class AdminRegressionTest {
 	
 }

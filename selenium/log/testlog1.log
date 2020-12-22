@@ -1,13 +1,478 @@
-2019-07-24 17:45:26,348 [main] INFO helpers.Log - Homepage displays
-2019-07-24 17:45:28,522 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:28,577 [main] INFO helpers.Log - Verify Home page text displays
-2019-07-24 17:45:28,627 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:28,662 [main] INFO helpers.Log - Verify Home page text displays
-2019-07-24 17:45:28,697 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:28,739 [main] INFO helpers.Log - Verify Home page text displays
-2019-07-24 17:45:28,828 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:28,898 [main] INFO helpers.Log - Verify Home page text displays
-2019-07-24 17:45:28,975 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:29,044 [main] INFO helpers.Log - Verify Home page small text displays
-2019-07-24 17:45:29,086 [main] INFO helpers.Log - Verify header displays
-2019-07-24 17:45:29,125 [main] INFO helpers.Log - Verify header displays
+2020-01-29 23:32:33,089 [main] INFO helpers.Log - Enter username
+2020-01-29 23:35:33,351 [main] INFO helpers.Log - Enter username
+2020-01-29 23:35:33,653 [main] INFO helpers.Log - Enter password
+2020-01-29 23:35:33,778 [main] INFO helpers.Log - Click Sign in Button
+2020-01-29 23:35:53,868 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.id: Sign In (tried for 20 second(s) with 500 milliseconds interval)
+2020-01-29 23:35:53,876 [main] INFO helpers.Log - WebDriverException done
+2020-01-29 23:35:53,879 [main] INFO helpers.Log - verify Admin Home Page
+2020-01-29 23:36:40,660 [main] INFO helpers.Log - Enter username
+2020-01-29 23:36:41,021 [main] INFO helpers.Log - Enter password
+2020-01-29 23:36:41,227 [main] INFO helpers.Log - Click Sign in Button
+2020-01-29 23:37:01,468 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.id: Sign In (tried for 20 second(s) with 500 milliseconds interval)
+2020-01-29 23:37:01,473 [main] INFO helpers.Log - WebDriverException done
+2020-01-29 23:37:01,473 [main] INFO helpers.Log - verify Admin Home Page
+2020-01-29 23:38:04,230 [main] INFO helpers.Log - Enter username
+2020-01-29 23:38:04,407 [main] INFO helpers.Log - Enter password
+2020-01-29 23:38:04,491 [main] INFO helpers.Log - Click Sign in Button
+2020-01-29 23:38:08,832 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 11:38:25,603 [main] INFO helpers.Log - Enter username
+2020-02-03 11:38:27,618 [main] INFO helpers.Log - Enter password
+2020-02-03 11:38:28,645 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:40:32,359 [main] INFO helpers.Log - Enter username
+2020-02-03 13:40:32,803 [main] INFO helpers.Log - Enter password
+2020-02-03 13:40:32,876 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:40:34,673 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:40:34,708 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:41:16,053 [main] INFO helpers.Log - Enter username
+2020-02-03 13:41:16,202 [main] INFO helpers.Log - Enter password
+2020-02-03 13:41:16,278 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:41:17,827 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:41:17,871 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:41:48,567 [main] INFO helpers.Log - Enter username
+2020-02-03 13:41:48,774 [main] INFO helpers.Log - Enter password
+2020-02-03 13:41:48,866 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:41:50,283 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:41:50,327 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:41:50,412 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:42:10,450 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: //a[@href='/Catalyst/Applicant/Create'] (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 13:42:10,452 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 13:42:10,453 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:42:39,175 [main] INFO helpers.Log - Enter username
+2020-02-03 13:42:39,314 [main] INFO helpers.Log - Enter password
+2020-02-03 13:42:39,396 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:42:40,914 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:42:40,951 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:42:41,027 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:43:01,329 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: //*[@href='/Catalyst/Applicant/Create'] (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 13:43:01,331 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 13:43:01,334 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:45:36,176 [main] INFO helpers.Log - Enter username
+2020-02-03 13:45:36,343 [main] INFO helpers.Log - Enter password
+2020-02-03 13:45:36,422 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:45:38,149 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:45:38,181 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:45:38,274 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:45:58,597 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: //*[contains(text(),'Applicant Account'] (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 13:45:58,601 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 13:45:58,603 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:47:46,229 [main] INFO helpers.Log - Enter username
+2020-02-03 13:47:46,477 [main] INFO helpers.Log - Enter password
+2020-02-03 13:47:46,594 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:47:48,343 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:47:48,428 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:47:48,517 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:47:50,085 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:47:50,124 [main] INFO helpers.Log - entering first name
+2020-02-03 13:47:50,127 [main] INFO helpers.Log - Enter username
+2020-02-03 13:47:50,326 [main] INFO helpers.Log - Enter password
+2020-02-03 13:47:50,402 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:47:51,915 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:47:51,976 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:47:52,105 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:47:53,338 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:47:53,389 [main] INFO helpers.Log - entering first name
+2020-02-03 13:49:02,626 [main] INFO helpers.Log - Enter username
+2020-02-03 13:49:02,901 [main] INFO helpers.Log - Enter password
+2020-02-03 13:49:02,990 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:49:10,202 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:49:10,245 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:49:10,318 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:49:11,192 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:49:24,713 [main] INFO helpers.Log - entering first name
+2020-02-03 13:50:05,870 [main] INFO helpers.Log - Enter username
+2020-02-03 13:50:06,003 [main] INFO helpers.Log - Enter password
+2020-02-03 13:50:06,064 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:50:07,452 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:50:07,499 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:50:07,594 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:50:08,452 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:50:08,502 [main] INFO helpers.Log - entering first name
+2020-02-03 13:50:40,833 [main] INFO helpers.Log - Enter username
+2020-02-03 13:50:40,982 [main] INFO helpers.Log - Enter password
+2020-02-03 13:50:41,043 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:50:42,492 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:50:42,535 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:50:42,622 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:50:43,700 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:50:43,739 [main] INFO helpers.Log - entering first name
+2020-02-03 13:51:24,667 [main] INFO helpers.Log - Enter username
+2020-02-03 13:51:24,800 [main] INFO helpers.Log - Enter password
+2020-02-03 13:51:24,866 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 13:51:26,397 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 13:51:26,437 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:51:26,513 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 13:51:27,633 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 13:51:27,678 [main] INFO helpers.Log - entering first name
+2020-02-03 13:51:27,858 [main] INFO helpers.Log - entering middle name
+2020-02-03 13:51:27,944 [main] INFO helpers.Log - entering last name
+2020-02-03 13:51:28,028 [main] INFO helpers.Log - entering email
+2020-02-03 13:51:28,146 [main] INFO helpers.Log - entering username
+2020-02-03 14:20:10,451 [main] INFO helpers.Log - Enter username
+2020-02-03 14:20:10,680 [main] INFO helpers.Log - Enter password
+2020-02-03 14:20:10,815 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:20:12,819 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:20:12,865 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:20:12,971 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:20:13,881 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:20:13,916 [main] INFO helpers.Log - entering first name
+2020-02-03 14:20:14,067 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:20:14,202 [main] INFO helpers.Log - entering last name
+2020-02-03 14:20:14,305 [main] INFO helpers.Log - entering email
+2020-02-03 14:20:14,583 [main] INFO helpers.Log - entering username
+2020-02-03 14:27:16,779 [main] INFO helpers.Log - Enter username
+2020-02-03 14:27:16,982 [main] INFO helpers.Log - Enter password
+2020-02-03 14:27:17,066 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:27:18,505 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:27:18,554 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:27:18,636 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:27:19,732 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:27:19,795 [main] INFO helpers.Log - entering first name
+2020-02-03 14:27:20,089 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:27:20,256 [main] INFO helpers.Log - entering last name
+2020-02-03 14:27:20,480 [main] INFO helpers.Log - entering email
+2020-02-03 14:27:20,787 [main] INFO helpers.Log - entering username
+2020-02-03 14:32:15,339 [main] INFO helpers.Log - Enter username
+2020-02-03 14:32:15,564 [main] INFO helpers.Log - Enter password
+2020-02-03 14:32:15,674 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:32:17,317 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:32:17,360 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:32:17,439 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:32:18,351 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:32:18,382 [main] INFO helpers.Log - entering first name
+2020-02-03 14:32:18,512 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:32:18,669 [main] INFO helpers.Log - entering last name
+2020-02-03 14:32:18,767 [main] INFO helpers.Log - entering email
+2020-02-03 14:32:18,953 [main] INFO helpers.Log - entering username
+2020-02-03 14:33:57,458 [main] INFO helpers.Log - Enter username
+2020-02-03 14:33:57,612 [main] INFO helpers.Log - Enter password
+2020-02-03 14:33:57,696 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:33:59,204 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:33:59,250 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:33:59,345 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:34:00,489 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:34:00,528 [main] INFO helpers.Log - entering first name
+2020-02-03 14:34:00,658 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:34:00,767 [main] INFO helpers.Log - entering last name
+2020-02-03 14:34:00,856 [main] INFO helpers.Log - entering email
+2020-02-03 14:34:01,121 [main] INFO helpers.Log - entering username
+2020-02-03 14:38:56,287 [main] INFO helpers.Log - Enter username
+2020-02-03 14:38:56,495 [main] INFO helpers.Log - Enter password
+2020-02-03 14:38:56,618 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:38:58,466 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:38:58,508 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:38:58,597 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:38:59,660 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:38:59,700 [main] INFO helpers.Log - entering first name
+2020-02-03 14:38:59,880 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:38:59,969 [main] INFO helpers.Log - entering last name
+2020-02-03 14:39:00,079 [main] INFO helpers.Log - entering email
+2020-02-03 14:39:00,326 [main] INFO helpers.Log - entering username
+2020-02-03 14:39:00,428 [main] INFO helpers.Log - entering password
+2020-02-03 14:39:00,511 [main] INFO helpers.Log - entering confirm password
+2020-02-03 14:39:00,700 [main] INFO helpers.Log - entering confirm password
+2020-02-03 14:39:00,800 [main] INFO helpers.Log - toggle button
+2020-02-03 14:39:20,986 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: facility-toggle-button (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 14:39:20,987 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 14:39:20,987 [main] INFO helpers.Log - Click create board button
+2020-02-03 14:39:41,125 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: JobCategoryDisplayList.developer_baltimore (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 14:39:41,128 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 14:39:41,129 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 14:40:35,348 [main] INFO helpers.Log - Enter username
+2020-02-03 14:40:35,482 [main] INFO helpers.Log - Enter password
+2020-02-03 14:40:35,546 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 14:40:36,880 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 14:40:36,927 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:40:37,073 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 14:40:37,952 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 14:40:38,003 [main] INFO helpers.Log - entering first name
+2020-02-03 14:40:38,138 [main] INFO helpers.Log - entering middle name
+2020-02-03 14:40:38,241 [main] INFO helpers.Log - entering last name
+2020-02-03 14:40:38,340 [main] INFO helpers.Log - entering email
+2020-02-03 14:40:38,542 [main] INFO helpers.Log - entering username
+2020-02-03 14:40:38,736 [main] INFO helpers.Log - entering password
+2020-02-03 14:40:38,908 [main] INFO helpers.Log - entering confirm password
+2020-02-03 14:40:39,039 [main] INFO helpers.Log - toggle button
+2020-02-03 14:40:39,119 [main] INFO helpers.Log - Click create board button
+2020-02-03 14:40:39,434 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:07:43,440 [main] INFO helpers.Log - Enter username
+2020-02-03 15:07:43,616 [main] INFO helpers.Log - Enter password
+2020-02-03 15:07:43,708 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:07:45,462 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:07:45,502 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:07:45,599 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:07:46,489 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:07:46,533 [main] INFO helpers.Log - entering first name
+2020-02-03 15:07:46,669 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:07:46,776 [main] INFO helpers.Log - entering last name
+2020-02-03 15:07:46,880 [main] INFO helpers.Log - entering email
+2020-02-03 15:07:47,114 [main] INFO helpers.Log - entering username
+2020-02-03 15:07:47,279 [main] INFO helpers.Log - entering password
+2020-02-03 15:07:47,389 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:07:47,516 [main] INFO helpers.Log - toggle button
+2020-02-03 15:07:47,593 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:07:47,774 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:08:44,334 [main] INFO helpers.Log - Enter username
+2020-02-03 15:08:44,488 [main] INFO helpers.Log - Enter password
+2020-02-03 15:08:44,573 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:08:46,026 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:08:46,073 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:08:46,168 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:08:46,997 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:08:47,039 [main] INFO helpers.Log - entering first name
+2020-02-03 15:08:47,176 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:08:53,507 [main] INFO helpers.Log - entering last name
+2020-02-03 15:08:53,628 [main] INFO helpers.Log - entering email
+2020-02-03 15:08:53,845 [main] INFO helpers.Log - entering username
+2020-02-03 15:08:57,257 [main] INFO helpers.Log - entering password
+2020-02-03 15:08:57,350 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:08:57,425 [main] INFO helpers.Log - toggle button
+2020-02-03 15:08:57,486 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:08:57,564 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:10:24,193 [main] INFO helpers.Log - Enter username
+2020-02-03 15:10:24,342 [main] INFO helpers.Log - Enter password
+2020-02-03 15:10:24,415 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:10:25,837 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:10:25,878 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:10:26,002 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:10:27,123 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:10:27,163 [main] INFO helpers.Log - entering first name
+2020-02-03 15:10:27,297 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:10:27,438 [main] INFO helpers.Log - entering last name
+2020-02-03 15:10:27,543 [main] INFO helpers.Log - entering email
+2020-02-03 15:10:27,747 [main] INFO helpers.Log - entering username
+2020-02-03 15:10:27,914 [main] INFO helpers.Log - entering password
+2020-02-03 15:10:28,011 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:10:28,105 [main] INFO helpers.Log - toggle button
+2020-02-03 15:10:28,169 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:10:28,242 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:12:44,255 [main] INFO helpers.Log - Enter username
+2020-02-03 15:12:44,517 [main] INFO helpers.Log - Enter password
+2020-02-03 15:12:44,678 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:12:46,220 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:12:46,254 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:12:46,413 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:12:47,343 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:12:47,393 [main] INFO helpers.Log - entering first name
+2020-02-03 15:12:47,532 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:12:47,682 [main] INFO helpers.Log - entering last name
+2020-02-03 15:12:47,815 [main] INFO helpers.Log - entering email
+2020-02-03 15:12:48,060 [main] INFO helpers.Log - entering username
+2020-02-03 15:13:40,745 [main] INFO helpers.Log - Enter username
+2020-02-03 15:13:40,954 [main] INFO helpers.Log - Enter password
+2020-02-03 15:13:41,042 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:13:42,681 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:13:42,716 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:13:42,792 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:13:43,713 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:13:43,759 [main] INFO helpers.Log - entering first name
+2020-02-03 15:13:43,906 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:13:44,043 [main] INFO helpers.Log - entering last name
+2020-02-03 15:13:44,178 [main] INFO helpers.Log - entering email
+2020-02-03 15:13:44,398 [main] INFO helpers.Log - entering password
+2020-02-03 15:13:44,502 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:13:44,689 [main] INFO helpers.Log - toggle button
+2020-02-03 15:13:44,834 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:13:44,922 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:13:48,338 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:14:14,327 [main] INFO helpers.Log - Enter username
+2020-02-03 15:14:14,565 [main] INFO helpers.Log - Enter password
+2020-02-03 15:14:14,693 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:14:16,101 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:14:16,144 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:14:16,227 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:14:16,998 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:14:17,038 [main] INFO helpers.Log - entering first name
+2020-02-03 15:14:17,180 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:14:17,280 [main] INFO helpers.Log - entering last name
+2020-02-03 15:14:17,430 [main] INFO helpers.Log - entering email
+2020-02-03 15:14:17,781 [main] INFO helpers.Log - entering password
+2020-02-03 15:14:17,883 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:14:17,973 [main] INFO helpers.Log - toggle button
+2020-02-03 15:14:18,052 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:14:18,153 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:26:50,467 [main] INFO helpers.Log - Enter username
+2020-02-03 15:26:50,728 [main] INFO helpers.Log - Enter password
+2020-02-03 15:26:50,818 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:26:52,387 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:26:52,436 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:26:52,511 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:26:53,465 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:26:53,496 [main] INFO helpers.Log - entering first name
+2020-02-03 15:26:53,684 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:26:53,781 [main] INFO helpers.Log - entering last name
+2020-02-03 15:26:53,958 [main] INFO helpers.Log - entering email
+2020-02-03 15:26:54,180 [main] INFO helpers.Log - entering password
+2020-02-03 15:26:54,318 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:26:54,477 [main] INFO helpers.Log - toggle button
+2020-02-03 15:26:54,573 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:26:54,679 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:26:57,713 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:27:17,840 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.id: createApplicantButton (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 15:27:17,843 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 15:27:29,554 [main] INFO helpers.Log - Enter username
+2020-02-03 15:27:29,729 [main] INFO helpers.Log - Enter password
+2020-02-03 15:27:29,853 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:27:31,214 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:27:31,257 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:27:31,343 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:27:32,211 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:27:32,259 [main] INFO helpers.Log - entering first name
+2020-02-03 15:27:32,456 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:27:32,618 [main] INFO helpers.Log - entering last name
+2020-02-03 15:27:32,804 [main] INFO helpers.Log - entering email
+2020-02-03 15:27:33,052 [main] INFO helpers.Log - entering password
+2020-02-03 15:27:33,186 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:27:33,333 [main] INFO helpers.Log - toggle button
+2020-02-03 15:27:33,414 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:27:33,510 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:27:35,237 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:27:55,270 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.id: createApplicantButton (tried for 20 second(s) with 500 milliseconds interval)
+2020-02-03 15:27:55,272 [main] INFO helpers.Log - WebDriverException done
+2020-02-03 15:28:23,782 [main] INFO helpers.Log - Enter username
+2020-02-03 15:28:23,975 [main] INFO helpers.Log - Enter password
+2020-02-03 15:28:24,075 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:28:25,725 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:28:25,765 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:28:25,856 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:28:26,910 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:28:26,956 [main] INFO helpers.Log - entering first name
+2020-02-03 15:28:27,177 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:28:27,287 [main] INFO helpers.Log - entering last name
+2020-02-03 15:28:27,406 [main] INFO helpers.Log - entering email
+2020-02-03 15:28:27,613 [main] INFO helpers.Log - entering password
+2020-02-03 15:28:27,725 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:28:27,871 [main] INFO helpers.Log - toggle button
+2020-02-03 15:28:27,961 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:28:28,063 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:28:29,691 [main] INFO helpers.Log - Verify New User displays
+2020-02-03 15:30:08,783 [main] INFO helpers.Log - Enter username
+2020-02-03 15:30:09,018 [main] INFO helpers.Log - Enter password
+2020-02-03 15:30:09,129 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:30:10,887 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:30:10,923 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:30:10,998 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:30:11,985 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:30:12,024 [main] INFO helpers.Log - entering first name
+2020-02-03 15:30:29,787 [main] INFO helpers.Log - Enter username
+2020-02-03 15:30:29,966 [main] INFO helpers.Log - Enter password
+2020-02-03 15:30:30,035 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:30:31,827 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:30:31,881 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:30:32,013 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:30:32,948 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:30:32,986 [main] INFO helpers.Log - entering first name
+2020-02-03 15:31:35,891 [main] INFO helpers.Log - Enter username
+2020-02-03 15:31:36,146 [main] INFO helpers.Log - Enter password
+2020-02-03 15:31:36,213 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:31:37,881 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:31:37,930 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:31:38,024 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:31:39,047 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:31:39,092 [main] INFO helpers.Log - entering first name
+2020-02-03 15:31:39,247 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:31:39,361 [main] INFO helpers.Log - entering last name
+2020-02-03 15:31:39,489 [main] INFO helpers.Log - entering email
+2020-02-03 15:31:39,734 [main] INFO helpers.Log - entering password
+2020-02-03 15:31:39,859 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:31:39,946 [main] INFO helpers.Log - toggle button
+2020-02-03 15:31:40,022 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:31:40,105 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:31:42,482 [main] INFO helpers.Log - Verify New User displays
+2020-02-03 15:32:40,740 [main] INFO helpers.Log - Enter username
+2020-02-03 15:32:41,058 [main] INFO helpers.Log - Enter password
+2020-02-03 15:32:41,215 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:32:42,705 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:32:42,756 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:32:42,838 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:32:43,827 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:32:43,864 [main] INFO helpers.Log - entering first name
+2020-02-03 15:33:45,778 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:33:58,220 [main] INFO helpers.Log - Enter username
+2020-02-03 15:33:58,368 [main] INFO helpers.Log - Enter password
+2020-02-03 15:33:58,439 [main] INFO helpers.Log - Click Sign in Button
+2020-02-03 15:33:59,999 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-03 15:34:00,076 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:34:00,233 [main] INFO helpers.Log - Clicking create account Link
+2020-02-03 15:34:01,184 [main] INFO helpers.Log - Verify Page displays
+2020-02-03 15:34:01,253 [main] INFO helpers.Log - entering first name
+2020-02-03 15:34:01,462 [main] INFO helpers.Log - entering middle name
+2020-02-03 15:34:01,652 [main] INFO helpers.Log - entering last name
+2020-02-03 15:34:01,850 [main] INFO helpers.Log - entering email
+2020-02-03 15:34:02,202 [main] INFO helpers.Log - entering password
+2020-02-03 15:34:02,317 [main] INFO helpers.Log - entering confirm password
+2020-02-03 15:34:02,484 [main] INFO helpers.Log - toggle button
+2020-02-03 15:34:02,581 [main] INFO helpers.Log - Click create board button
+2020-02-03 15:34:02,675 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-03 15:34:05,124 [main] INFO helpers.Log - Verify New User displays
+2020-02-04 00:46:01,623 [main] INFO helpers.Log - Enter username
+2020-02-04 00:46:03,001 [main] INFO helpers.Log - Enter password
+2020-02-04 00:46:03,163 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 00:46:07,565 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 00:46:07,677 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 00:46:07,883 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 00:46:09,194 [main] INFO helpers.Log - Verify Page displays
+2020-02-04 00:46:09,383 [main] INFO helpers.Log - entering first name
+2020-02-04 00:46:23,486 [main] INFO helpers.Log - entering middle name
+2020-02-04 00:46:23,638 [main] INFO helpers.Log - entering last name
+2020-02-04 00:46:57,902 [main] INFO helpers.Log - Enter username
+2020-02-04 00:46:58,206 [main] INFO helpers.Log - Enter password
+2020-02-04 00:46:58,327 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 00:47:02,424 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 00:47:02,464 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 00:47:02,557 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 00:47:03,957 [main] INFO helpers.Log - Verify Page displays
+2020-02-04 00:47:04,000 [main] INFO helpers.Log - entering first name
+2020-02-04 00:47:04,218 [main] INFO helpers.Log - entering middle name
+2020-02-04 00:47:04,301 [main] INFO helpers.Log - entering last name
+2020-02-04 00:47:04,402 [main] INFO helpers.Log - entering email
+2020-02-04 00:47:04,595 [main] INFO helpers.Log - entering password
+2020-02-04 00:47:04,695 [main] INFO helpers.Log - entering confirm password
+2020-02-04 00:47:04,781 [main] INFO helpers.Log - toggle button
+2020-02-04 00:47:04,856 [main] INFO helpers.Log - Click create board button
+2020-02-04 00:47:04,940 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-04 00:47:07,549 [main] INFO helpers.Log - Verify New User displays
+2020-02-04 00:48:32,492 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 00:48:36,562 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-04 00:48:38,919 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-04 08:50:46,007 [main] INFO helpers.Log - Enter username
+2020-02-04 08:50:47,078 [main] INFO helpers.Log - Enter password
+2020-02-04 08:50:47,239 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 08:50:47,935 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 08:51:58,980 [main] INFO helpers.Log - Enter username
+2020-02-04 08:51:59,321 [main] INFO helpers.Log - Enter password
+2020-02-04 08:51:59,436 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 08:52:00,133 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 11:18:36,897 [main] INFO helpers.Log - Enter username
+2020-02-04 11:18:37,075 [main] INFO helpers.Log - Enter password
+2020-02-04 11:18:37,274 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 11:18:39,368 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 11:18:39,409 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 11:18:39,491 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 11:18:40,459 [main] INFO helpers.Log - Verify Page displays
+2020-02-04 11:18:40,496 [main] INFO helpers.Log - entering first name
+2020-02-04 11:18:40,643 [main] INFO helpers.Log - entering middle name
+2020-02-04 11:18:40,755 [main] INFO helpers.Log - entering last name
+2020-02-04 11:18:40,876 [main] INFO helpers.Log - entering email
+2020-02-04 11:18:41,147 [main] INFO helpers.Log - entering password
+2020-02-04 11:18:41,259 [main] INFO helpers.Log - entering confirm password
+2020-02-04 11:18:41,363 [main] INFO helpers.Log - toggle button
+2020-02-04 11:18:41,469 [main] INFO helpers.Log - Click create board button
+2020-02-04 11:18:41,618 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-04 11:18:43,409 [main] INFO helpers.Log - Verify New User displays
+2020-02-04 11:54:24,897 [main] INFO helpers.Log - Enter username
+2020-02-04 11:54:25,212 [main] INFO helpers.Log - Enter password
+2020-02-04 11:54:25,544 [main] INFO helpers.Log - Click Sign in Button
+2020-02-04 11:54:27,849 [main] INFO helpers.Log - verify Admin Home Page
+2020-02-04 11:54:27,959 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 11:54:28,503 [main] INFO helpers.Log - Clicking create account Link
+2020-02-04 11:54:30,527 [main] INFO helpers.Log - Verify Page displays
+2020-02-04 11:54:30,634 [main] INFO helpers.Log - entering first name
+2020-02-04 11:54:31,027 [main] INFO helpers.Log - entering middle name
+2020-02-04 11:54:31,370 [main] INFO helpers.Log - entering last name
+2020-02-04 11:54:31,807 [main] INFO helpers.Log - entering email
+2020-02-04 11:54:32,603 [main] INFO helpers.Log - entering password
+2020-02-04 11:54:33,138 [main] INFO helpers.Log - entering confirm password
+2020-02-04 11:54:33,624 [main] INFO helpers.Log - toggle button
+2020-02-04 11:54:33,797 [main] INFO helpers.Log - Click create board button
+2020-02-04 11:54:34,162 [main] INFO helpers.Log - Click create Applicant Button
+2020-02-04 11:54:36,828 [main] INFO helpers.Log - Verify New User displays
